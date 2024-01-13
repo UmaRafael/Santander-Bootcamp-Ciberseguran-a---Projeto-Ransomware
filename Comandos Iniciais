@@ -1,0 +1,5 @@
+## Atualizar o sistema operacional:
+- apt update && apt upgrade -y
+
+## Instalar a Biblioteca pyaes:
+- pip install pyaes

@@ -12,5 +12,5 @@
 - Bibliotecas: os e pyaes
 
 ## Termos Legais
-- O código utilizado nesse projeto, foi desenvolvido  exclusivamente para utilização didática e aplicação dos conhecimentos relacionados a Cibersegurança e Segurança da Informação, ministrados no  Santander Bootcamp Cibersegurança.
+- O código utilizado neste projeto, foi desenvolvido  exclusivamente para utilização didática e aplicação dos conhecimentos relacionados a Cibersegurança e Segurança da Informação, ministrados no  Santander Bootcamp Cibersegurança.
 - Em caso de ato ou omissão que viole dispositivo de lei, a responsabilidade recairá exclusivamente sobre quem praticou tal ato/omissão. 

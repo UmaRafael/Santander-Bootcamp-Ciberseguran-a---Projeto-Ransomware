@@ -1,2 +1,15 @@
-# Santander-Bootcamp-Ciberseguran-a---Projeto-Ransomware
-Criando um ransomware, em linguagem python.
+
+# Santander Bootcamp Cibersegurança - Projeto Ransomware.py
+
+## Objetivo:
+- Criar um Ransomware
+
+## Informações sobre o código
+- Linguagem: Python
+- Criptografia: AES
+- Sistema Operacional: Kali Linux
+- Arquivo atacado: .txt
+
+## Termos Legais
+- O código utilizado nesse projeto, foi desenvolvido  exclusivamente para utilização didática e aplicação dos conhecimentos relacionados a Cibersegurança e Segurança da Informação, ministrados no  Santander Bootcamp Cibersegurança.
+- Em caso de ato ou omissão que viole dispositivo de lei, a responsabilidade recairá exclusivamente sobre quem praticou tal ato/omissão. 
